@@ -1,4 +1,4 @@
-# ASP-Learning-note: Controller
+# ASP-Learning-note: Model
 
 ## Set up connection
 In Web.config
