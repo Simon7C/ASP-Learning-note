@@ -31,7 +31,7 @@ window.onbeforeunload = function () {
 ```
 
 ## Read from Database
-You need to prepare the data connection in .asmx fil, see [Web Method](https://github.com/Simon7C/ASP-Learning-note/blob/master/Controller.md)
+You need to prepare the data connection in .asmx fil, see [Web Method](https://github.com/Simon7C/ASP-Learning-note/blob/master/WebService.md)
 ```Javascript
 function NeedData() {
   ID = "11111111"
